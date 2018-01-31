@@ -1,0 +1,234 @@
+body{
+	background-image: url(2018_dodge_challenger_srt_demon_47_2560x1440.jpg);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	
+}
+
+#d1{
+	padding: 20px;
+	margin: 20px;
+	
+
+}
+#d2{
+	padding: 20px;
+	margin: 20px;
+	
+
+}
+
+
+#d3{
+	padding: 20px;
+	margin: 20px;
+	
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.h1-1970{
+	
+	font-size: 50px;
+	margin: 10px;
+	font-family: 'Armata', sans-serif;
+	text-align: center;
+	border-top: 2px solid black;
+	border-right: 2px solid black;
+	border-left: 2px solid black;
+	border-bottom-left-radius: 10px;
+	border-top-right-radius: 10px;
+	border-bottom: 2px solid black;
+	
+
+	
+}
+
+
+
+#p-div-1970{
+	background-color:darkred;
+	border-radius: 20px;
+	color: whitesmoke;
+	height: 200px;
+	align-content: center;
+	padding: 20px;
+	opacity: 0.8;}
+	
+.p-1970{
+	font-size: 25px;
+	font-family: 'Exo', sans-serif;
+	padding-top: 10px;
+	/*background-color: black;
+	color: white;*/
+	/*opacity: 1;
+	*/
+}
+
+#p-div-2008{
+	background-color: darkred;
+		border-radius: 20px;
+	color: whitesmoke;
+	height: 300px;
+	align-content: center;
+	padding: 20px;
+	opacity: 0.8;
+}
+
+.p-2008{
+	font-size: 25px;
+	font-family: 'Exo', sans-serif;
+	padding-top: 10px;
+	/*background-color: black;
+	color: white;*/
+	/*opacity: 1;
+	*/
+}
+
+
+
+.h1-2008{
+	font-size: 50px;
+	margin: 10px;
+	text-align: center;
+	font-family: 'Armata', sans-serif;
+	border-top: 2px solid black;
+	border-right: 2px solid black;
+	border-left: 2px solid black;
+	border-bottom-left-radius: 10px;
+	border-top-right-radius: 10px;
+	border-bottom: 2px solid black;
+	
+
+	
+}
+
+.h1-2015{
+	font-size: 50px;
+	margin: 10px;
+	text-align: center;
+	border-top: 2px solid black;
+	font-family: 'Armata', sans-serif;
+	border-right: 2px solid black;
+	border-left: 2px solid black;
+	border-bottom-left-radius: 10px;
+	border-top-right-radius: 10px;
+	border-bottom: 2px solid black;
+	
+
+	
+}
+
+#p-div-2015{
+	background-color: darkred;
+		border-radius: 20px;
+	color: whitesmoke;
+	height: 300px;
+	align-content: center;
+	padding: 20px;
+	opacity: 0.8;
+}
+
+.p-2015{
+	font-size: 25px;
+	font-family: 'Exo', sans-serif;
+	padding-top: 10px;
+	/*background-color: black;
+	color: white;*/
+	/*opacity: 1;
+	*/
+}
+
+.btn-1{
+	text-decoration: none;
+	background-color:#ed3030;
+	width: 180px;
+	font-family: 'Armata', sans-serif;
+	color: aliceblue;
+	font-size: 20px;
+	border: none;
+	border-radius: 10px;
+	font-weight: bold;
+	text-transform: uppercase;
+	height: 50px;
+	opacity: .82;
+	/*border: 2px solid black;
+*/
+}
+
+.btn-1:hover{
+	background-color:#ed3030;
+	color: aliceblue;
+	opacity: .9;
+}
+
+#car-div{
+	position: absolute;
+	top: 1450px;
+	left: 700px;
+}
+
+
+
+#car-div2{
+	position: absolute;
+	top: 1450px;
+	left: 400px;
+}
+
+
+.btn-2{
+	text-decoration: none;
+	background-color:black;
+	width: 180px;
+	font-family: 'Armata', sans-serif;
+	color: #fd1f1f;
+	font-size: 20px;
+	font-weight: bold;
+	border: none;
+	border-radius: 10px;
+	text-transform: uppercase;
+	opacity: 0.82;
+	height: 50px;
+}
+
+.btn-2:hover{
+	background-color:black;
+	color: #fd1f1f;
+	opacity: .99;
+}
+
+
+
+
+#space15{
+	height: 200px;
+	width: 200px;
+	position: relative;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
